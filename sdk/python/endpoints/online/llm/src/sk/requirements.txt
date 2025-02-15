@@ -7,3 +7,4 @@ azure-mgmt-keyvault
 azure-ai-ml==1.5.0
 pyyaml
 azure-cli
+msal>=1.24.1 # not directly required, pinned by Snyk to avoid a vulnerability

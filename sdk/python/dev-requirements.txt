@@ -9,5 +9,5 @@ torch==2.1.0
 tensorflow==2.9.3
 tensorflow-hub==0.15.0
 transformers==4.34.0
-keras==2.9
+keras==3.9.0
 jupyter-client==7.4.9

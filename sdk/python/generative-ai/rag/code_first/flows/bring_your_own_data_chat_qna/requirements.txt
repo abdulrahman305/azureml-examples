@@ -2,3 +2,4 @@ promptflow[azure]
 promptflow-tools
 azureml-rag[faiss]
 azure-ai-ml
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability

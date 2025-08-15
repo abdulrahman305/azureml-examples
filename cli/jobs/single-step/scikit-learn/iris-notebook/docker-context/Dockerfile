@@ -1,4 +1,5 @@
 FROM python:3.14.0a4
+FROM python:3.13.3
 
 # python installs
 COPY requirements.txt .

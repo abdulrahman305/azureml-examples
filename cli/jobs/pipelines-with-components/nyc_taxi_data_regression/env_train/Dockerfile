@@ -1,4 +1,5 @@
 FROM python:3.13.2
+FROM python:3.13.3
 
 # Install pip dependencies
 RUN pip install 'matplotlib>=3.3,<3.4' \

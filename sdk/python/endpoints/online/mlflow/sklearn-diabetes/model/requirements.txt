@@ -2,3 +2,5 @@ mlflow
 cloudpickle==3.1.1
 psutil==5.9.4
 scikit-learn==1.6.1
+sqlparse>=0.5.4 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
